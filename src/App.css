@@ -1,0 +1,11 @@
+body{
+  background-color: #050d15 !important;
+  color: #fff !important;
+}
+*:focus-visible {
+  box-shadow: none !important;
+  border: none;
+  outline: none !important;
+}
+
+@import "../src/assests/styles/index.css";

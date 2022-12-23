@@ -1,0 +1,24 @@
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: inline-block;
+    width: 100px;
+}
+
+.xu-site-header {
+    background-color: white;
+}
+
+.top_user {
+    background-color: #fff;
+    border-radius: 30px !important;
+    text-align: center !important;
+    border: 1px solid black;
+    box-shadow: none;
+    font-size: 20px !important;
+    display: inline-block;
+}
